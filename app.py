@@ -1,4 +1,4 @@
-def divide(arg, arg2) :
-    print(arg / arg2)
+def x(arg, arg2) :
+    print(arg * arg2)
 
-divide(10, 3)
+x(10, 3)
