@@ -1,6 +1,6 @@
-def hello() :
-    print('hello')
+def add(arg) :
+    print(arg + 1)
 
-hello()
-hello()
-hello()
+add(1)
+add(2)
+add(3)
