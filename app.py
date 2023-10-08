@@ -1,4 +1,6 @@
-car = ['k5','bmw','tico']
+def hello() :
+    print('hello')
 
-for fuck in car :
-    print(fuck * 3)
+hello()
+hello()
+hello()
