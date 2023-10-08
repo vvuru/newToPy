@@ -1,6 +1,4 @@
-def add(arg) :
-    print(arg + 1)
+def divide(arg, arg2) :
+    print(arg / arg2)
 
-add(1)
-add(2)
-add(3)
+divide(10, 3)
