@@ -1,7 +1,8 @@
-print('안녕')
-print('Hello' * 5)
-print('Hello'[0:2])
+재고량 = -2
 
-이름 = "우루"
-자동차 = ["k5","white",[5000,6000]]
-print(자동차)
+if 재고량 > 0 :
+    print('지금 주문 가능합니다.')
+elif 재고량 == 00 :
+    print('재고가 부족합니다.')
+else :
+    print('마이너스?!')
